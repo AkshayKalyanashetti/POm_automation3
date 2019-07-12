@@ -1,9 +1,8 @@
 from Pages.webgeneric import WebGeneric
-class HomeScreen:
+class TaskScreen:
     def __init__(self,driver):
         WebGeneric.__init__(self, driver)
         self.driver = driver
-    def logout(self):
+    def task(self):
         wg = WebGeneric(self.driver)
-        wg.submit('//*[@id="logoutLink"]')
-        #self.driver.find_element_by_id('logoutLink').click()
+        wg.submit('//*[@id="topnav"]/tbody/tr[1]/td[3]/a/div[1]')

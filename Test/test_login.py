@@ -1,5 +1,6 @@
 from Pages.login import *
 from Pages.homepage import *
+from Pages.task import TaskScreen
 import pytest
 @pytest.mark.usefixtures('pre_and_post_action')
 class Test_login:
@@ -7,6 +8,12 @@ class Test_login:
         driver= self.driver
         lp = LoginPage(driver)
         lp.actilogin()
+
+    def test_task(self):
+        driver = self.driver
+        lp = TaskScreen(driver)
+        lp.task()
+
     def test_logout(self):
         driver = self.driver
         lout=HomeScreen(driver)
