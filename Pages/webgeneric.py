@@ -11,7 +11,6 @@ class WebGeneric(Locators):
     def enter(self, locator_val, input_val):
         self.driver.find_element_by_name(locator_val).send_keys(input_val)
 
-
     def submit(self, locator_val):
         self.driver.find_element_by_xpath(locator_val).click()
 

@@ -6,4 +6,5 @@ def pre_and_post_action(request):
     driver.get('https://google.com')
     driver.get('https://demo.actitime.com')
     driver.implicitly_wait(30)
+    driver.maximize_window()
     request.cls.driver = driver
