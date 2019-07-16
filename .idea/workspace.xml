@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfd3ecfa-6d8d-477f-a9e0-c322cb9a7a2f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/webgeneric.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/webgeneric.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/5088e32a-c352-43a4-abf5-1b3162f50410-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e9eedcb4-da85-4de2-8ff9-d4f029acb52a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/f242a0c5-6fc3-4c73-9bc2-4d12ad70d4e4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/ff2b370d-5e26-4069-8be5-ec9251d65dd0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="193">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -348,9 +339,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.48772505" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.48772505" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -460,8 +451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="193">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
