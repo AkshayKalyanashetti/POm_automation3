@@ -10,20 +10,24 @@ class Test_login:
         lp = LoginPage(driver)
         lp.actilogin()
 
- #   def test_user(self):
- #       driver= self.driver
- #       up = UserScreen(driver)
- #       up.user()
+
+
+    def test_user(self):
+        driver= self.driver
+        up = UserScreen(driver)
+        up.user1()
 
     def test_task(self):
         driver = self.driver
         lp = TaskScreen(driver)
         lp.task()
 
-    #def test_logout(self):
-    #    driver = self.driver
-    #    lout=HomeScreen(driver)
-    #    lout.logout()
+    def test_logout(self):
+        driver = self.driver
+        lout=HomeScreen(driver)
+        lout.logout()
+
+
 
 #def test_logout():
 #    driver.find_element_by_id('logoutLink').click()
