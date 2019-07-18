@@ -18,3 +18,4 @@ class TaskScreen:
         wg.submit('//*[@id="customerLightBox_content"]/div[3]/div[2]/div[2]')
         import time
         time.sleep(5) #manually click on OK button when javascript pop-up comes on the screen
+        print('Passed')

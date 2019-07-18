@@ -11,3 +11,4 @@ class UserScreen:
         wg.submit('//*[@id="topnav"]/tbody/tr/td[5]/a/div[1]')
         #wg.submit('//*[@id="pageBody"]/tbody/tr[1]/td[3]/div/div[3]')
         wg.submit("//div[text()='PTO Settings']")
+        print('User model Passed')

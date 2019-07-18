@@ -14,7 +14,6 @@ class WebGeneric(Locators):
 
         self.lc.driver.find_element_by_name(locator_val).send_keys(input_val)
 
-
     def text(self, locator_val, input_val):
         self.lc.driver.find_element_by_xpath(locator_val).send_keys(input_val)
 

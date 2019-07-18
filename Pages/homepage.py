@@ -6,4 +6,5 @@ class HomeScreen:
     def logout(self):
         wg = WebGeneric(self.driver)
         wg.submit('//*[@id="logoutLink"]')
+        print("logout Passed")
         #self.driver.find_element_by_id('logoutLink').click()

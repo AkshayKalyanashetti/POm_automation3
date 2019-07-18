@@ -12,3 +12,4 @@ class LoginPage:
         wg.enter(self.user_id, USERNAME)
         wg.enter(self.pass_name, PASSWORD)
         wg.submit(self.login_xpath)
+        print('login passed')
