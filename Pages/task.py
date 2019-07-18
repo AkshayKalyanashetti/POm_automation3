@@ -16,6 +16,7 @@ class TaskScreen:
         wg.text(self.user_descrip, 'good one11')
         wg.submit("//div[@class='emptySelection']")
         wg.submit('//*[@id="customerLightBox_content"]/div[3]/div[2]/div[2]')
-        import time
-        time.sleep(5) #manually click on OK button when javascript pop-up comes on the screen
+        #import time
+        #time.sleep(5) #manually click on OK button when javascript pop-up comes on the screen
+        self.driver.switch_to_alert().accept()
         print('Passed')
