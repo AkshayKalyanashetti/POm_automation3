@@ -4,24 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Test/test_login.py" line="8" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd3ecfa-6d8d-477f-a9e0-c322cb9a7a2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pages/TimeTrack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/webgeneric.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/webgeneric.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/10950710-c970-4196-a0c3-e0bd9a332354-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/24925530-051d-4708-8fa3-556b822b4e88-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/3a09d364-d0f2-4289-a21f-16a06d1dd57b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/43b59d15-4a50-4620-a8ef-10faea988012-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/57d3f56d-0b41-4445-8e69-efd3d791bd00-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/6791874b-db53-4606-94ea-d72072b464c5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/8a84d617-9229-4423-8756-9ebc59b4e7cf-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/9fb16ef1-b8af-4b7b-ab75-ce3b5b5a258f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/b30c491c-8684-48a2-b2bb-32d50ae6d410-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/c688e3bc-b54e-4e44-9f78-78d38e8ab57a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e2dc7274-e347-4c60-9a7b-1e310e5eba79-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e46603b4-e590-431e-9d8b-9aad774c50ba-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test_login.py" afterDir="false" />
-    </list>
+    <list default="true" id="bfd3ecfa-6d8d-477f-a9e0-c322cb9a7a2f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/webgeneric.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="185">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#0#4#0" expanded="true" />
               </folding>
@@ -349,10 +332,19 @@
       <option name="presentableId" value="Default" />
       <updated>1562648105320</updated>
     </task>
+    <task id="LOCAL-00001" summary="uptodate">
+      <created>1563431130611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563431130611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25813776" />
@@ -374,6 +366,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Key Promoter X" order="3" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uptodate" />
+    <option name="LAST_COMMIT_MESSAGE" value="uptodate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,8 +476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/webgeneric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="185">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#0#4#0" expanded="true" />
           </folding>
