@@ -1,5 +1,6 @@
 from Pages.login import *
 from Pages.homepage import *
+from Pages.TimeTrack import HomeTime
 from Pages.task import TaskScreen
 from Pages.user import UserScreen
 import pytest
@@ -10,6 +11,10 @@ class Test_login:
         lp = LoginPage(driver)
         lp.actilogin()
 
+    def test_actihome(self):
+        driver =self.driver
+        hs = HomeTime(driver)
+        hs.homescreen()
 
 
     def test_user(self):
